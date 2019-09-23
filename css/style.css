@@ -145,7 +145,7 @@ body {
 /*============HEADER STYLE=========*/
 
 img {
-  height: 30px;
+  height: 20px;
 }
 .page-header {
   height: 66px;
@@ -154,8 +154,16 @@ img {
 
 .page-header .logo {
   float: left;
+  padding-top: 23px;
+  box-sizing: border-box;
 }
 
 .page-header .main-nav {
   float: right;
+}
+
+.main-nav li {
+  float: left;
+  color: #fff;
+  text-transform: uppercase;
 }
