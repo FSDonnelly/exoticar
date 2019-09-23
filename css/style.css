@@ -228,22 +228,22 @@ h1 {
     -5deg,
     #ffffff 0%,
     #ffffff 50%,
-    #000000 50%,
-    #000000 100%
+    #1b1b1b 50%,
+    #1b1b1b 100%
   ); /* FF3.6-15 */
   background: -webkit-linear-gradient(
     -5deg,
     #ffffff 0%,
     #ffffff 50%,
-    #000000 50%,
-    #000000 100%
+    #1b1b1b 50%,
+    #1b1b1b 100%
   ); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(
     95deg,
     #ffffff 0%,
     #ffffff 50%,
-    #000000 50%,
-    #000000 100%
+    #1b1b1b 50%,
+    #1b1b1b 100%
   ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
