@@ -179,6 +179,10 @@ img {
   line-height: 66px;
 }
 
+.main-nav li a:hover {
+  color: #ff0000;
+}
+
 /*============MAIN STYLE=========*/
 /*============BANNER STYLE=========*/
 .banner {
@@ -220,6 +224,10 @@ h1 {
   margin: 0 auto;
 }
 
+.learn-more:hover {
+  box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.5);
+  border: 1px solid red;
+}
 /*============ARTICLES STYLE=========*/
 
 .articles {
@@ -332,8 +340,14 @@ h2::after {
   line-height: 1.6;
 }
 
+.page-footer li:hover {
+  color: #fff;
+  cursor: pointer;
+}
+
 .copy {
   color: #585858;
+  margin-top: 32px;
 }
 
 .social a {
@@ -345,6 +359,11 @@ h2::after {
   color: #fff;
   text-align: center;
   line-height: 44px;
+}
+
+.social a:hover {
+  color: red;
+  background: white;
 }
 
 .social li {
