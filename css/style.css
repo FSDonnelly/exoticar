@@ -297,3 +297,9 @@ h2::after {
   font-weight: 300;
   margin-bottom: 60px;
 }
+
+/*============FOOTER STYLE=========*/
+
+.page-footer {
+  background: #111111;
+}
